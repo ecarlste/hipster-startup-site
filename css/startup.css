@@ -26,3 +26,7 @@ body,
     font-size: 70px;
     letter-spacing: -3px;
 }
+
+nav.navbar-inverse {
+    background: rgba(0, 0, 0, 0.5);
+}
