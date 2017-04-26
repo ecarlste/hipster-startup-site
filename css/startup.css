@@ -55,3 +55,15 @@ blockquote cite {
     color: #888;
     margin-top: 40px;
 }
+
+section {
+    padding: 100px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 0 60px;
+}
