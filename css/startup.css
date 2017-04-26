@@ -67,3 +67,10 @@ h2 {
     text-transform: uppercase;
     margin: 0 0 60px;
 }
+
+#team {
+    background: url('../img/fan.jpg') top left no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
